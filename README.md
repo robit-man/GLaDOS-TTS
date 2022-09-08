@@ -3,8 +3,6 @@
 
 This project employs pitch correction to text to speech comperable to GLaDOS from Portal
 
-Use librosa < 0.6.*
-
 To use with an existing project with tts output:
 
 `from speak import speak`
@@ -14,13 +12,17 @@ To use with an existing project with tts output:
 `speak(quote)`
 
 
-to test without out of the box:
+to test out of the box:
 
+clone project
 `git clone https://github.com/robit-man/GLaDOS-TTS/`
 
+enter directory
 `cd GLaDOS-TTS`
 
+install requirements
 `pip3 install -r requirements`
 
+run test script
 `python3 test.py`
 
