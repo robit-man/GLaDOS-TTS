@@ -12,11 +12,13 @@ To use, put files parallel to where you import and:
 
 `speak(quote)`
 
-to test without importing:
+to test without out of the box:
 
 `git clone https://github.com/robit-man/GLaDOS-TTS/`
 
 `cd GLaDOS-TTS`
+
+`pip3 install -r requirements`
 
 `python3 test.py`
 
