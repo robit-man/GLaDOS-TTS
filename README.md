@@ -1,4 +1,5 @@
 # GLaDOS Text To Speech
+![Alt text](https://upload.wikimedia.org/wikipedia/en/b/bf/Glados.png "a title")
 
 This project employs pitch correction to text to speech comperable to GLaDOS from Portal
 
