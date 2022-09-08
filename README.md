@@ -5,13 +5,14 @@ This project employs pitch correction to text to speech comperable to GLaDOS fro
 
 Use librosa < 0.6.*
 
-To use, put files parallel to where you import and:
+To use with an existing project with tts output:
 
 `from speak import speak`
 
 `quote = "Despite Your Violent Behavior, The Only Thing You’ve Managed To Break So Far Is My Heart."`
 
 `speak(quote)`
+
 
 to test without out of the box:
 
