@@ -1,4 +1,6 @@
 # GLaDOS Text To Speech
+
+## [Click here for a rapid deployment of a fine tuned ONNX model and piper implementation!](https://github.com/robit-man/piper-tts-service)
 ![Alt text](https://upload.wikimedia.org/wikipedia/en/b/bf/Glados.png "GLaDOS")
 
 This project employs pitch correction over text to speech comperable to GLaDOS from Portal
